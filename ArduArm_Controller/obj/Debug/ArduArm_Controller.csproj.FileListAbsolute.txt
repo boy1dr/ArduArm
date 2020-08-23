@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\bin\Debug\ArduArm_Controller.exe.config
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\bin\Debug\ArduArm_Controller.exe
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\bin\Debug\ArduArm_Controller.pdb
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\obj\Debug\ArduArm_Controller.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\obj\Debug\ArduArm_Controller.Form1.resources
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\obj\Debug\ArduArm_Controller.Properties.Resources.resources
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\obj\Debug\ArduArm_Controller.csproj.GenerateResource.cache
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\obj\Debug\ArduArm_Controller.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\obj\Debug\ArduArm_Controller.exe
+C:\Users\chris\Documents\GitHub\ArduArm\ArduArm_Controller\obj\Debug\ArduArm_Controller.pdb
