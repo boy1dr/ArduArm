@@ -20,4 +20,4 @@ This is it working...using the only servo's i had in my parts bin at the time (v
 https://www.youtube.com/watch?v=Bt2EiDSwcJs  
   
   
-Not included here is the Arduino code, i could probably find it if anyone is interested but i think if you can wrap your head around the math used here then writing the arduino side of this is elementary.
+For arduino code see file ArduArm_serial.ino
